@@ -1,0 +1,21 @@
+{
+  "name": "objects-typescript",
+  "version": "1.0.0",
+  "description": "Objects TypeScript Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "objects-typescript"
+  },
+  "author": "Hugo Paez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "volta": {
+    "node": "14.20.0"
+  }
+}
